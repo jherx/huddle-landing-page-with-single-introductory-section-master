@@ -31,8 +31,8 @@ body {
 }
 .img {
   width:350px;
-  padding-top: 50px;
-  padding-left: 19px;
+ margin: 50px auto;
+ padding-left: 20px;
 }
 
 .section-inf {
