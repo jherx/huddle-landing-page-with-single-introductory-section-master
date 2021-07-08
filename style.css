@@ -6,6 +6,7 @@
 
 body {
   background: url(images/bg-mobile.svg) hsl(257, 40%, 49%) no-repeat;
+  background-size: 100%;
   color: #fff;
   font-family: "Open Sans", sans-serif;
   font-size: 16px;
@@ -105,7 +106,7 @@ margin: 10px;
   
 }
 
-@media (min-width: 665px) and (max-width: 1440px) {
+@media (min-width: 765px) and (max-width: 1440px) {
   body {
     background: url(images/bg-desktop.svg)  hsl(257, 40%, 49%) no-repeat;
     background-size: 90%;
