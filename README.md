@@ -1,7 +1,7 @@
 
 ## Welcome! 👋
 
-## visualizacion del proyecto: 
+## visualizacion del proyecto: https://jherx.github.io/huddle-landing-page-with-single-introductory-section-master/
 
 # Frontend Mentor - Huddle landing page with single introductory section
 
